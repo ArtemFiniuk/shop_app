@@ -1,6 +1,6 @@
 # shop_app
 
-## made by HeorhiiKanir
+## made by ArtemFiniuk
 
 
 
